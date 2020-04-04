@@ -1,0 +1,3 @@
+[console_scripts]
+birthday = com.birthday_main:main
+
