@@ -8,7 +8,7 @@
 # }
 import json
 
-directory_path = "/home/jayakumar/Birthday/birthday.txt"
+directory_path = "/tmp/Birthday/birthday.txt"
 
 
 class BirthdayDiary:
